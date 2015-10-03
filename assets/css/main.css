@@ -277,6 +277,7 @@ a:before, a:after {
 }
 #about img {
 	margin-top: 0;
+	display:inline;
 }
 #services {
 	background: url(../img/bg.jpg) no-repeat center center fixed;
